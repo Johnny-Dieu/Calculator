@@ -5,6 +5,13 @@
     font-family: 'Prompt', sans-serif;
  }
 
+ header, footer{
+     text-align: center;
+     font-size: 30px;
+     padding-top: 60px;
+     padding-bottom: 30px;
+ }
+
  #calculator{
      width: 320px;
      height: 520px;
